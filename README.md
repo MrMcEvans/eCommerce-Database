@@ -1,6 +1,10 @@
 <h1># Retail Item Database</h1>
 
 
+
+'## Click the button to watch my walkthrough video on YouTube!
+[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://www.youtube.com/watch?v=m2GJ_BeAvoE)'
+
 ![Github license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
